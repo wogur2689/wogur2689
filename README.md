@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+
 <!--
 **wogur2689/wogur2689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
