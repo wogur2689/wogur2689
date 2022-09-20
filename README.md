@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! my name is Gil JaeHyeok 👋
 
 <!--깃헙 레포 사용 언어 수-->
 <img src="https://img.shields.io/github/languages/count/beygee/survive">
