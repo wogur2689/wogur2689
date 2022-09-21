@@ -1,6 +1,6 @@
 ### Hello! my name is Gil JaeHyeok 👋
 
-<img alt="C" src ="https://img.shields.io/badge/C-#A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 
 <!--깃헙 레포 사용 언어 수-->
 <img src="https://img.shields.io/github/languages/count/beygee/survive/github-10-red">
