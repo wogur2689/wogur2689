@@ -2,8 +2,8 @@
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20hyeokhyeokjae%20%20&fontAlign=30&fontSize=30&textBg=true&desc=devloper&descAlign=60&descAlignY=50)
 
-<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-<img alt="JAVA" src ="https://img.shields.io/badge/JAVA-A8B9CC.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
+### language!
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-A8B9CC.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/> <img alt="python" src ="https://img.shields.io/badge/python-A8B9CC.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="kotlin" src ="https://img.shields.io/badge/kotlin-A8B9CC.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img alt="PHP" src ="https://img.shields.io/badge/PHP-A8B9CC.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
 
 
 <!--
