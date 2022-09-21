@@ -1,6 +1,6 @@
 ### Hello! my name is Gil JaeHyeok 👋
 
-![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=random&text=hyeokhyeokjae&fontAlign=80&fontSize=30)
+![reversal](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20hyeokhyeokjae%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
 
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-A8B9CC.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
