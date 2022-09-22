@@ -5,7 +5,7 @@
 ### language!
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-A8B9CC.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/> <img alt="python" src ="https://img.shields.io/badge/python-A8B9CC.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="kotlin" src ="https://img.shields.io/badge/kotlin-A8B9CC.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img alt="PHP" src ="https://img.shields.io/badge/PHP-A8B9CC.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogur2689&show_icons=true&theme=tokyonight)
 
 <!--
 **wogur2689/wogur2689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
