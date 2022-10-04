@@ -8,6 +8,7 @@
 ### Skill!
 <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-A8B9CC.svg?&style=for-the-badge&logo=JQuery&logoColor=white"/> <img alt="Spring" src="https://img.shields.io/badge/Spring-A8B9CC.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-A8B9CC.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="Node" src="https://img.shields.io/badge/Node-A8B9CC.svg?&style=for-the-badge&logo=Node&logoColor=white"/>
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogur2689&show_icons=true&theme=tokyonight) [![wogur2689's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wogur2689&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wogur2689)
 
 ### 저는 아직 1년차 이지만 앞으로 계속 나아가고 있습니다 :)
