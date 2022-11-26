@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogur2689&show_icons=true&theme=tokyonight) [![wogur2689's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wogur2689&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wogur2689)
 
-### 저는 아직 1년차 이지만 앞으로 계속 나아가고 있습니다 :)
+### 저는 아직 2년차 이지만 앞으로 계속 나아가고 있습니다 :)
 <!--
 **wogur2689/wogur2689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
