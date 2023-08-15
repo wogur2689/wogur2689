@@ -19,7 +19,11 @@
   <details>
  <summary>Back-end</summary>
   <ul>
-    <li>Spring</li>
+    <li>PHP</li>
+    <li>jsp</li>
+    <li>python</li>
+    <li>java Spring</li>
+    <li>kotlin Spring</li>
     <li>NodeJS</li>
   </ul>
   </details>
@@ -52,8 +56,19 @@
   <li>MySQL</li>
   <li>PostgreSQL</li>
   <li>SQLite</li>
-  <li>oracle</li>
-  <li>firebase</li>
+  <li>Oracle</li>
+  <li>Firebase</li>
+  </ul>
+  </details>
+  </li>
+  <li>
+ <details>
+ <summary>DevOps & cloud</summary>
+  <ul>
+    <li>netlify</li>
+    <li>jenkins</li>
+    <li>AWS</li>
+    <li>docker</li>
   </ul>
   </details>
   </li>
