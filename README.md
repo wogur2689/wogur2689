@@ -65,9 +65,24 @@
 </ul>
 
 <br>
+
+&nbsp;
+&nbsp;
+
+<div align = center>
+
+<h2>my github ♡</h2>
+
 ![wogur2689's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogur2689&show_icons=true&theme=tokyonight)
 
+<br>
+
 [![wogur2689's github language](https://github-readme-stats.vercel.app/api/top-langs/?username=wogur2689&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wogur2689)
+
+</div>
+
+&nbsp;
+&nbsp;
 
 <p align="center">
 ### 안녕하세요. ###<br>
