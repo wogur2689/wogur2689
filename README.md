@@ -24,23 +24,21 @@
   <details>
  <summary>Back-end</summary>
   <ul>
-  <li>Spring</li>
-  <li>NodeJS</li>
+    <li>Spring</li>
+    <li>NodeJS</li>
   </ul>
-  </li>
   </details>
+  </li>
   <li>
   <details>
   <summary>Mobile App</summary>
   <ul>
-  <li>Android
-  <ul>
-  <li>java</li>
-  </ul>
-  </li>
-  </ul>
+    <li>Android
     <ul>
-  <li>kotlin</li>
+      <li>java</li>
+      <li>kotlin</li>
+    </ul>
+    </li>
   </ul>
   </details>
   </li>
@@ -48,7 +46,7 @@
   <details>
 <summary>Version control</summary>
   <ul>
-  <li>Git</li>
+    <li>Git</li>
   </ul>
   </details>
   </li>
@@ -67,10 +65,7 @@
 </ul>
 
 <br>
-![wogur2689's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogur2689&show_icons=true&theme=tokyonight) 
-
-<br>
-[![wogur2689's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wogur2689&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wogur2689)
+![wogur2689's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogur2689&show_icons=true&theme=tokyonight) [![wogur2689's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wogur2689&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wogur2689)
 
 <p align="center">
 ### 안녕하세요. ###<br>
