@@ -8,17 +8,70 @@
 ### Skill!
 <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-A8B9CC.svg?&style=for-the-badge&logo=JQuery&logoColor=white"/> <img alt="Spring" src="https://img.shields.io/badge/Spring-A8B9CC.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-A8B9CC.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="Node" src="https://img.shields.io/badge/Node-A8B9CC.svg?&style=for-the-badge&logo=Node&logoColor=white"/>
 
-### front-end
+<ul>
+  <li>
+    <details>
+    <summary>Front-end</summary>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>React</li>
+    </ul>
+    </details>
+  </li>
+  <li>
+  <details>
+ <summary>Back-end</summary>
+  <ul>
+  <li>Spring</li>
+  <li>NodeJS</li>
+  </ul>
+  </li>
+  </details>
+  <li>
+  <details>
+  <summary>Mobile App</summary>
+  <ul>
+  <li>Android
+  <ul>
+  <li>java</li>
+  </ul>
+  </li>
+  </ul>
+    <ul>
+  <li>kotlin</li>
+  </ul>
+  </details>
+  </li>
+  <li>
+  <details>
+<summary>Version control</summary>
+  <ul>
+  <li>Git</li>
+  </ul>
+  </details>
+  </li>
+  <li>
+ <details>
+ <summary>Database</summary>
+  <ul>
+  <li>MySQL</li>
+  <li>PostgreSQL</li>
+  <li>SQLite</li>
+  <li>oracle</li>
+  <li>firebase</li>
+  </ul>
+  </details>
+  </li>
+  <li>
+  <details>
+</ul>
 
-### Back-end
-
-### DevOps
-
-### DB
-
-### social
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogur2689&show_icons=true&theme=tokyonight) [![wogur2689's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wogur2689&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wogur2689)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogur2689&show_icons=true&theme=tokyonight) 
+<br>
+[![wogur2689's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wogur2689&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wogur2689)
 
 <p align="center">
 ### 안녕하세요. ###<br>
