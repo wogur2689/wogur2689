@@ -91,7 +91,7 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogur2689)](https://solved.ac/anfvnxntm/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogur2689)](https://solved.ac/wogur2689/)
 
 </div>
 
