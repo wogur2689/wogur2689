@@ -21,7 +21,7 @@
   <ul>
     <li>PHP</li>
     <li>jsp</li>
-    <li>python</li>
+    <li>python(crawling)</li>
     <li>java Spring</li>
     <li>kotlin Spring</li>
     <li>NodeJS</li>
@@ -125,7 +125,6 @@
 저의 이름은 길재혁이고 현재 SI에서 근무하면서 다양한 기술을 공부하고 있습니다.<br>
 항상 개발 및 공부한 과정들을 기록하면서<br>
 모든 지식들을 공유하는 도서관을 개발합니다.<br>
-8월동안 저장소 정리 중입니다.<br>
-백준 다시 시작하는 마음으로 풀어볼생각입니다.<br>
+외주 및 사이드 프로젝트 문의 받습니다!<br>
 <Strong>📧Email📧</Strong><br>wogur2689@naver.com<br>
 </p>
