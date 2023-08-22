@@ -72,6 +72,28 @@
   </ul>
   </details>
   </li>
+  <li>
+ <details>
+ <summary>collaboration</summary>
+  <ul>
+    <li>slack</li>
+    <li>jira</li>
+    <li>notion</li>
+    <li>dooray</li>
+    <li>trello</li>
+  </ul>
+  </details>
+  </li>
+  <li>
+ <details>
+ <summary>design</summary>
+  <ul>
+    <li>figma</li>
+    <li>zeplin</li>
+    <li>photoshop</li>
+  </ul>
+  </details>
+  </li>
 </ul>
 
 <br>
