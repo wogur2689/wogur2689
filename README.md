@@ -74,7 +74,7 @@
   </li>
   <li>
  <details>
- <summary>communication</summary>
+ <summary>Communication</summary>
   <ul>
     <li>slack</li>
     <li>jira</li>
@@ -86,7 +86,7 @@
   </li>
   <li>
  <details>
- <summary>design</summary>
+ <summary>Design</summary>
   <ul>
     <li>figma</li>
     <li>zeplin</li>
