@@ -74,7 +74,7 @@
   </li>
   <li>
  <details>
- <summary>collaboration</summary>
+ <summary>communication</summary>
   <ul>
     <li>slack</li>
     <li>jira</li>
