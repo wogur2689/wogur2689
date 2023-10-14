@@ -58,6 +58,7 @@
   <li>SQLite</li>
   <li>Oracle</li>
   <li>Firebase</li>
+  <li>Redis</li>
   </ul>
   </details>
   </li>
@@ -65,6 +66,7 @@
  <details>
  <summary>DevOps & cloud</summary>
   <ul>
+    <li>github pages</li>
     <li>netlify</li>
     <li>jenkins</li>
     <li>AWS</li>
