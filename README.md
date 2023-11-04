@@ -73,6 +73,16 @@
   </ul>
   </details>
   </li>
+    <li>
+ <details>
+ <summary>open api</summary>
+  <ul>
+    <li>www.data.go.kr(공공데이터 - 미세먼지 api 사용)</li>
+    <li>developers.naver.com(네이버 - 네이버지도 api 사용)</li>
+    <li>cloud.google.com</li></li>
+  </ul>
+  </details>
+  </li>
   <li>
  <details>
  <summary>Communication</summary>
