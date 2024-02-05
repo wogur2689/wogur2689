@@ -119,11 +119,21 @@
 <h2>company</h2>
 <ul>
   <li>(주)스윙크 - 인턴 1개월</li>
-  <li>(주)크림솔루션 - 정규직 2년</li>
+  <li>(주)크림솔루션 - 정규직 2년 3개월(재직)</li>
   <ul>
       <li>마켓컬리 3p 정산 시스템 구축 7개월</li>
       <li>벨포레 하이브리드 웹앱 구축 8개월</li>
       <li>현대오일뱅크 시스템 클라우드 이관 프로젝트 10개월(진행중)</li>
+  </ul>
+</ul>
+<h2>club</h2>
+<ul>
+  <li>Monthly_Coding - 2021.09 ~ 현재</li>
+  <ul>
+      <li>코딩동아리 fullStack Devloper</li>
+      <li>프로젝트 : DMC android 개발 4개월</li>
+      <li>프로젝트 : Monthly_Coding site 개발 3개월</li>
+      <li>프로젝트 : DMC2 Admin 개발 8개월</li>
   </ul>
 </ul>
   
