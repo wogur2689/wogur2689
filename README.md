@@ -11,6 +11,7 @@
       <li>CSS</li>
       <li>JavaScript</li>
       <li>React</li>
+      <li>Vue</li>
     </ul>
     </details>
   </li>
