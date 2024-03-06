@@ -151,13 +151,13 @@
 </ul>
 <h2>club</h2>
 <ul>
-  <li>Monthly_Coding - 2021.09 ~ 현재, fullStack Devloper PL</li>
+  <li>Monthly_Coding - 2021.09 ~ 현재</li>
   <ul>
       <li>DMC android 개발 4개월 - android</li>
       <li>Monthly_Coding site 개발 3개월 - Spring + React + Mysql</li>
       <li>DMC2 Admin 개발 8개월 - Spring + React + firebase</li>
   </ul>
-  <li>share we? & 다독다독 - 2024.02 ~ 현재, 사이드 프로젝트 backend Devloper PL</li>
+  <li>share we? & 다독다독 - 2024.02 ~ 현재</li>
   <ul>
       <li>책 공유 플랫폼 2개월(진행중) - Spring + AWS + Mysql + jenkins ci/cd</li>
   </ul>
