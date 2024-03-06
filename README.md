@@ -118,12 +118,14 @@
   <li>학점은행제 학사(재학중) (평균학점 : 4.1)</li>
   <li>동양미래대학교 컴퓨터정보공학과 전문 학사 (평균학점 : 3.6)</li>
 </ul>
+<br>
 <h2>company</h2>
 <ul>
   <li>(주)스윙크 - 인턴 1개월</li>
   <ul>
     <li>(디지털마케터)네이버 블로그 스타트업 홍보 1개월</li>
   </ul>
+  <br>
   <li>(주)크림솔루션 - 대리 2년 3개월(재직)</li>
   <ul>
       <li>마켓컬리 3p 정산 시스템 구축 7개월
@@ -152,6 +154,7 @@
       </li>
   </ul>
 </ul>
+<br>
 <h2>club</h2>
 <ul>
   <li>Monthly_Coding - 2021.09 ~ 현재</li>
@@ -160,6 +163,7 @@
       <li>Monthly_Coding site 개발 3개월 - Spring + React + Mysql</li>
       <li>DMC2 Admin 개발 8개월 - Spring + React + firebase</li>
   </ul>
+  <br>
   <li>share we? & 다독다독 - 2024.02 ~ 현재</li>
   <ul>
       <li>책 공유 플랫폼 2개월(진행중) - Spring + AWS + Mysql + jenkins ci/cd</li>
