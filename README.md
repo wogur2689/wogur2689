@@ -152,6 +152,13 @@
       <li>책 공유 플랫폼 site(backend + AWS) 개발 2개월(진행중)</li>
   </ul>
 </ul>
+<h2>Certificate</h2>
+<ul>
+  <li>컴퓨터활용능력 1급</li>
+  <li>리눅스마스터 2급</li>
+  <li>정보처리산업기사</li>
+  <li>NCA(NAVER CLOUD PLATFORM Certified Associate)</li>
+</ul>
   
 <div align = center>
 
