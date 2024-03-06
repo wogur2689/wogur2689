@@ -128,30 +128,9 @@
   <br>
   <li>(주)크림솔루션 - 대리 2년 3개월(재직)</li>
   <ul>
-      <li>마켓컬리 3p 정산 시스템 구축 7개월
-        <ul>stack
-          <li>Spring boot 2.7, JPA, Okhttp, swagger open api </li>
-          <li>Mysql, postgreSql</li>
-          <li>slick, jira, github</li>
-        </ul>
-      </li>
-      <li>벨포레 하이브리드 웹앱 구축 8개월
-        <ul>stack
-          <li>android(kotlin)</li>
-          <li>egov, spring security, Mybatis, jsp, JQuery, nicepay</li>
-          <li>oracle</li>
-          <li>slick, notion, github</li>
-        </ul>
-      </li>
-      <li>현대오일뱅크 시스템 클라우드 이관 프로젝트 1년(진행중)
-        <ul>stack
-          <li>linux/unix, VSFTPD, Docker, ant, maven, tomcat, node.js, fastApi, Miplatform</li>
-          <li>AWS - EC2, codeCommit, codeBuild, codeDeploy, S3, EKS, ECR, EFS</li>
-          <li>EC2 - jenkins ci/cd</li>
-          <li>EKS - accodian ci/cd</li>
-          <li>slick, notion, KakaoWork, dooray</li>
-        </ul>
-      </li>
+      <li>마켓컬리 3p 정산 시스템 구축 7개월</li>
+      <li>벨포레 하이브리드 웹앱 구축 8개월</li>
+      <li>현대오일뱅크 시스템 클라우드 이관 프로젝트 1년(진행중)</li>
   </ul>
 </ul>
 <br>
@@ -159,14 +138,14 @@
 <ul>
   <li>Monthly_Coding - 2021.09 ~ 현재</li>
   <ul>
-      <li>DMC android 개발 4개월 - android</li>
-      <li>Monthly_Coding site 개발 3개월 - Spring + React + Mysql</li>
-      <li>DMC2 Admin 개발 8개월 - Spring + React + firebase</li>
+      <li>DMC APP(android) 개발 4개월</li>
+      <li>Monthly_Coding site(front + backend) 개발 3개월</li>
+      <li>DMC2 Admin(front + backend) 개발 8개월</li>
   </ul>
   <br>
   <li>share we? & 다독다독 - 2024.02 ~ 현재</li>
   <ul>
-      <li>책 공유 플랫폼 2개월(진행중) - Spring + AWS + Mysql + jenkins ci/cd</li>
+      <li>책 공유 플랫폼 site(backend + AWS) 개발 2개월(진행중)</li>
   </ul>
 </ul>
   
