@@ -150,7 +150,7 @@
   <br>
   <li>share we? & 다독다독 - 2024.02 ~ 현재</li>
   <ul>
-      <li>책 공유 플랫폼 site(backend + AWS) 개발 2개월(진행중)</li>
+      <li>책 공유 플랫폼 site(backend + AWS) 개발 3개월(진행중)</li>
   </ul>
 </ul>
 <h2>solo</h2>
