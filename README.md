@@ -115,7 +115,7 @@
 
 <h2>school</h2>
 <ul>
-  <li>학점은행제 학사(재학중) (평균학점 : 4.13)</li>
+  <li>학점은행제 학사(재학중) (평균학점 : 4.07)</li>
   <br>
   <li>동양미래대학교 컴퓨터정보공학과 전문 학사 (평균학점 : 3.6)</li>
   <ul>
@@ -136,7 +136,7 @@
   <ul>
       <li>마켓컬리 3p 정산 시스템 구축 7개월</li>
       <li>벨포레 하이브리드 웹앱 구축 8개월</li>
-      <li>현대오일뱅크 시스템 클라우드 이관 프로젝트 1년(진행중)</li>
+      <li>현대오일뱅크 시스템 클라우드 이관 프로젝트 1년 1개월(진행중)</li>
   </ul>
 </ul>
 <h2>club</h2>
@@ -148,9 +148,9 @@
       <li>DMC2 Admin(front + backend) 개발 8개월</li>
   </ul>
   <br>
-  <li>share we? & 다독다독 - 2024.02 ~ 현재</li>
+  <li>share we? & 다독다독 - 2024.02 ~ 2024.06</li>
   <ul>
-      <li>책 공유 플랫폼 site(backend + AWS) 개발 4개월(진행중)</li>
+      <li>책 공유 플랫폼 site(backend + AWS) 개발 5개월(진행중)</li>
   </ul>
 </ul>
 <h2>solo</h2>
@@ -184,9 +184,9 @@
   <li>미니 베이커리</li>
   <ul>
       <li>빵집 구축 프로젝트</li>
-      <li>보통 빵을 좋아하기도 하고 e커머스에 대한 경험을 쌓기위해 직접 조그마한 쇼핑몰을 만들기로 결심하였다.</li>
-      <li>stack : Vue3(front UI) + express(front api server) + Spring boot(Admin) + netlify + cloudType + pigma </li>
-      <li>개발 기간 2023.10 ~ 현재 5개월</li>
+      <li>보통 빵을 좋아하기도 하고 e커머스에 대한 경험을 좀더 쌓기위해 직접 조그마한 쇼핑몰을 만들기로 결심하였다.</li>
+      <li>stack : Vue3(front UI) + express(front api server) + Spring boot(Admin) + cloudType + pigma </li>
+      <li>개발 기간 2023.10 ~ 현재 8개월</li>
       <li>1차 구현 : 유저(로그인, 회원가입, 관리자 로그인, 유저 관리) 24.5월 배포</li>
       <li>2차 구현 : 상품(데이터 수집기, 상품관리)</li>
       <li>3차 구현 : 결제(nicePay 연동, 결제관리)</li>
