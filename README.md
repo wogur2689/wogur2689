@@ -136,21 +136,21 @@
   <ul>
       <li>마켓컬리 3p 정산 시스템 구축 7개월</li>
       <li>벨포레 하이브리드 웹앱 구축 8개월</li>
-      <li>현대오일뱅크 시스템 클라우드 이관 프로젝트 1년 1개월(진행중)</li>
+      <li>현대오일뱅크 시스템 클라우드 이관 프로젝트 1년 2개월(진행중)</li>
   </ul>
 </ul>
 <h2>club</h2>
 <ul>
-  <li>Monthly_Coding - 2021.09 ~ 현재</li>
+  <li>Monthly_Coding - 2021.09 ~ 2023.10</li>
   <ul>
       <li>DMC APP(android) 개발 4개월</li>
       <li>Monthly_Coding site(front + backend) 개발 3개월</li>
-      <li>DMC2 Admin(front + backend) 개발 8개월</li>
+      <li>DMC2 Admin(front + backend) 개발 10개월</li>
   </ul>
   <br>
-  <li>share we? & 다독다독 - 2024.02 ~ 2024.06</li>
+  <li>share we? & 다독다독 - 2024.02 ~ 2024.07</li>
   <ul>
-      <li>책 공유 플랫폼 site(backend + AWS) 개발 5개월(진행중)</li>
+      <li>책 공유 플랫폼 site(backend + AWS) 개발 6개월(진행중)</li>
   </ul>
 </ul>
 <h2>solo</h2>
@@ -181,6 +181,14 @@
       <li>추후 개선 사항 : 크롤링을 이용해서 새로운 식물들에 대한 정보를 수집하는 수집기 개발 예정</li>
   </ul>
   <br>
+  <li>포트폴리오</li>
+  <ul>
+      <li>나의 모든것을 소개하는 페이지.</li>
+      <li>가끔씩 날 설명할때가 필요할때 보여줄 페이지.</li>
+      <li>stack : React.js </li>
+      <li>개발 기간 2023.04 ~ 2023.05 2개월</li>
+  </ul>
+  <br>
   <li>미니 베이커리</li>
   <ul>
       <li>빵집 구축 프로젝트</li>
@@ -188,9 +196,16 @@
       <li>stack : Vue3(front UI) + express(front api server) + Spring boot(Admin) + cloudType + pigma </li>
       <li>개발 기간 2023.10 ~ 현재 8개월</li>
       <li>1차 구현 : 유저(로그인, 회원가입, 관리자 로그인, 유저 관리) 24.5월 배포</li>
-      <li>2차 구현 : 상품(데이터 수집기, 상품관리)</li>
+      <li>2차 구현 : 상품(데이터 수집기, 상품관리) 24년 10월 시작</li>
       <li>3차 구현 : 결제(nicePay 연동, 결제관리)</li>
       <li>4차 구현 : 유저 심화(소셜로그인, 마이페이지)</li>
+  </ul>
+  <li>포트폴리오 리뉴얼</li>
+  <ul>
+      <li>나의 모든것을 소개하는 페이지.</li>
+      <li>기존 페이지는 일일이 다 수정하고 배포해야되는 문제와 좀더 심플한 디자인을 위해 개선.</li>
+      <li>stack : Next.js + FastApi </li>
+      <li>개발 기간 2024.07 ~ 2024.10 3개월</li>
   </ul>
 </ul>
 <h2>Certificate</h2>
