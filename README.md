@@ -70,23 +70,13 @@
     <li>github pages</li>
     <li>netlify</li>
     <li>jenkins</li>
-    <li>AWS</li>
     <li>docker</li>
     <li>accodian</li>
+    <li>AWS</li>
   </ul>
   </details>
   </li>
     <li>
- <details>
- <summary>open api</summary>
-  <ul>
-    <li>www.data.go.kr(공공데이터 - 미세먼지 api 사용)</li>
-    <li>developers.naver.com(네이버 - 네이버지도 api 사용)</li>
-    <li>cloud.google.com(구글 - 구글로그인 사용)</li>
-  </ul>
-  </details>
-  </li>
-  <li>
  <details>
  <summary>Communication</summary>
   <ul>
