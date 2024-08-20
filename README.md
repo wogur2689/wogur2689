@@ -71,7 +71,7 @@
     <li>netlify</li>
     <li>jenkins</li>
     <li>docker</li>
-    <li>accodian</li>
+    <li>accodian(kubernetes)</li>
     <li>AWS</li>
   </ul>
   </details>
@@ -123,11 +123,11 @@
     <li>(디지털마케터)네이버 블로그 스타트업 홍보 1개월</li>
   </ul>
   <br>
-  <li>(주)크림솔루션 - 대리 2년 9개월(재직)</li>
+  <li>(주)크림솔루션 - 대리 2년 10개월(재직)</li>
   <ul>
       <li>마켓컬리 3p 정산 시스템 구축 7개월</li>
       <li>벨포레 하이브리드 웹앱 구축 8개월</li>
-      <li>현대오일뱅크 시스템 클라우드 이관 프로젝트 1년 3개월(진행중)</li>
+      <li>현대오일뱅크 시스템 클라우드 이관 프로젝트 1년 4개월(진행중)</li>
   </ul>
 </ul>
 <h2>club</h2>
@@ -139,22 +139,12 @@
       <li>DMC2 Admin(front + backend) 개발 10개월</li>
   </ul>
   <br>
-  <li>share we? & 다독다독 - 2024.02 ~ 2024.07</li>
+  <li>share we? & 다독다독 - 2024.02 ~ 2024.08</li>
   <ul>
-      <li>책 공유 플랫폼 site(backend + AWS) 개발 6개월(진행중)</li>
+      <li>책 공유 플랫폼 site(backend + AWS) 개발 7개월</li>
   </ul>
 </ul>
 <h2>solo</h2>
-<ul>
-  <li>뭐먹을래? APP</li>
-  <ul>
-      <li>점심 추천어플</li>
-      <li>뭐먹을지 고민이 있을때 애니메이션 기능으로 돌림판을 만들어서 예를들면 중식이 나오면 네이버 지도에 gps를 키고 주변에 있는 맛집을 확인</li>
-      <li>stack : android(java), naver api</li>
-      <li>개발 기간 2021.04 ~ 2021.06 2개월</li>
-      <li>대학교 기말고사 과제 (A+)</li>
-  </ul>
-  <br>
   <li>React Mp3 반응형 웹</li>
   <ul>
       <li>나만의 음악을 들을수 있는 사이트</li>
