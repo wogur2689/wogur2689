@@ -12,7 +12,6 @@
       <li>CSS</li>
       <li>JavaScript</li>
       <li>React</li>
-      <li>Vue</li>
     </ul>
     </details>
   </li>
@@ -20,11 +19,10 @@
   <details>
  <summary>Back-end</summary>
   <ul>
-    <li>PHP</li>
     <li>jsp</li>
     <li>python(crawling)</li>
-    <li>java Spring</li>
-    <li>kotlin Spring</li>
+    <li>Spring boot</li>
+    <li>Spring Framework</li>
     <li>NodeJS</li>
   </ul>
   </details>
@@ -35,7 +33,6 @@
   <ul>
     <li>Android
     <ul>
-      <li>java</li>
       <li>kotlin</li>
     </ul>
     </li>
@@ -56,7 +53,6 @@
   <ul>
   <li>MySQL</li>
   <li>PostgreSQL</li>
-  <li>SQLite</li>
   <li>Oracle</li>
   <li>Firebase</li>
   <li>Redis</li>
@@ -67,6 +63,7 @@
  <details>
  <summary>DevOps & cloud</summary>
   <ul>
+    <li>linux</li>
     <li>github pages</li>
     <li>netlify</li>
     <li>jenkins</li>
@@ -145,6 +142,7 @@
   </ul>
 </ul>
 <h2>solo</h2>
+<ul>
   <li>React Mp3 반응형 웹</li>
   <ul>
       <li>나만의 음악을 들을수 있는 사이트</li>
