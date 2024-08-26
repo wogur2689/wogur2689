@@ -175,7 +175,7 @@
       <li>stack : Vue3(front UI) + express(front api server) + Spring boot(Admin) + cloudType + pigma </li>
       <li>개발 기간 2023.10 ~ 현재 8개월</li>
       <li>1차 구현 : 유저(로그인, 회원가입, 관리자 로그인, 유저 관리) 24.5월 배포</li>
-      <li>2차 구현 : 상품(데이터 수집기, 상품관리) 24년 10월 시작</li>
+      <li>2차 구현 : 상품(데이터 수집기, 상품관리) 24년 9월 시작</li>
       <li>3차 구현 : 결제(nicePay 연동, 결제관리)</li>
       <li>4차 구현 : 유저 심화(소셜로그인, 마이페이지)</li>
   </ul>
@@ -183,8 +183,8 @@
   <ul>
       <li>나의 모든것을 소개하는 페이지.</li>
       <li>기존 페이지는 일일이 다 수정하고 배포해야되는 문제와 좀더 심플한 디자인을 위해 개선.</li>
-      <li>stack : Next.js + FastApi </li>
-      <li>개발 기간 2024.07 ~ 2024.10 3개월</li>
+      <li>stack : Next.js</li>
+      <li>개발 기간 2024.8 1개월</li>
   </ul>
 </ul>
 <h2>Certificate</h2>
