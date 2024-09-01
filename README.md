@@ -195,12 +195,6 @@
 
 ![wogur2689's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogur2689&show_icons=true&theme=tokyonight)
 
-<br>
-
-[![wogur2689's github language](https://github-readme-stats.vercel.app/api/top-langs/?username=wogur2689&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wogur2689)
-
-<br>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogur2689)](https://solved.ac/wogur2689/)
 
 </div>
