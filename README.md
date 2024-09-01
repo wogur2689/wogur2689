@@ -8,9 +8,8 @@
     <details>
     <summary>Front-end</summary>
     <ul>
-      <li>HTML</li>
-      <li>CSS</li>
       <li>JavaScript</li>
+      <li>JQuery</li>
       <li>React</li>
     </ul>
     </details>
@@ -33,6 +32,7 @@
   <ul>
     <li>Android
     <ul>
+      <li>java</li>
       <li>kotlin</li>
     </ul>
     </li>
@@ -43,6 +43,7 @@
   <details>
 <summary>Version control</summary>
   <ul>
+    <li>Svn</li>
     <li>Git</li>
   </ul>
   </details>
@@ -124,7 +125,8 @@
   <ul>
       <li>마켓컬리 3p 정산 시스템 구축 7개월</li>
       <li>벨포레 하이브리드 웹앱 구축 8개월</li>
-      <li>현대오일뱅크 시스템 클라우드 이관 프로젝트 1년 4개월(진행중)</li>
+      <li>현대오일뱅크 시스템 클라우드 이관 프로젝트 1년 5개월</li>
+      <li>대한송유관공사 PMS구축 (예정)</li>
   </ul>
 </ul>
 <h2>club</h2>
@@ -166,8 +168,8 @@
       <li>보통 빵을 좋아하기도 하고 e커머스에 대한 경험을 좀더 쌓기위해 직접 조그마한 쇼핑몰을 만들기로 결심하였다.</li>
       <li>stack : Vue3(front UI) + express(front api server) + Spring boot(Admin) + cloudType + pigma </li>
       <li>개발 기간 2024.04 ~ 현재 4개월</li>
-      <li>1차 구현 : 유저(로그인, 회원가입, 관리자 로그인, 유저 관리) 24.5월 배포</li>
-      <li>2차 구현 : 상품(데이터 수집기, 상품관리) 24년 9월 시작</li>
+      <li>1차 구현 : 유저(로그인, 회원가입, 관리자 로그인, 유저 관리) 완료</li>
+      <li>2차 구현 : 상품(데이터 수집기, 상품관리) 진행중</li>
       <li>3차 구현 : 결제(nicePay 연동, 결제관리)</li>
       <li>4차 구현 : 유저 심화(소셜로그인, 마이페이지)</li>
   </ul>
