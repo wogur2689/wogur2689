@@ -52,11 +52,11 @@
  <details>
  <summary>Database</summary>
   <ul>
-  <li>MySQL</li>
-  <li>PostgreSQL</li>
-  <li>Oracle</li>
-  <li>Firebase</li>
-  <li>Redis</li>
+    <li>MySQL</li>
+    <li>PostgreSQL</li>
+    <li>Oracle</li>
+    <li>Firebase</li>
+    <li>Redis</li>
   </ul>
   </details>
   </li>
@@ -64,6 +64,7 @@
  <details>
  <summary>DevOps & cloud</summary>
   <ul>
+    <li>windows</li>
     <li>linux</li>
     <li>github pages</li>
     <li>netlify</li>
@@ -99,17 +100,13 @@
 </ul>
 
   
-<div align = center>
-
-<h2>my github ♡</h2>
+<h1>Gihub Stats</h1>
 
 ![wogur2689's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogur2689&show_icons=true&theme=tokyonight)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogur2689)](https://solved.ac/wogur2689/)
 
-</div>
 
-&nbsp;
 &nbsp;
 
 <p align="center">
@@ -117,6 +114,6 @@
 현재 SI에서 근무하면서 다양한 기술을 공부하고 있습니다.<br>
 항상 개발 및 공부한 과정들을 기록하면서<br>
 모든 지식들을 공유하는 도서관을 개발합니다.<br>
-외주 및 사이드 프로젝트 문의 받습니다!<br>
+궁금하신건 하단 이메일로 문의주세요!<br>
 <Strong>📧Email📧</Strong><br>wogur2689@naver.com<br>
 </p>
