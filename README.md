@@ -11,6 +11,7 @@
       <li>JavaScript</li>
       <li>JQuery</li>
       <li>React</li>
+      <li>Vue</li>
     </ul>
     </details>
   </li>
