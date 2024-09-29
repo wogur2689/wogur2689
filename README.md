@@ -69,6 +69,7 @@
     <li>linux</li>
     <li>github pages</li>
     <li>netlify</li>
+    <li>cloudtype</li>
     <li>jenkins</li>
     <li>docker</li>
     <li>accodian(kubernetes)</li>
@@ -84,6 +85,7 @@
     <li>jira</li>
     <li>notion</li>
     <li>dooray</li>
+    <li>kakaowork</li>
     <li>trello</li>
   </ul>
   </details>
