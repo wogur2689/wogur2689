@@ -19,6 +19,7 @@
  <summary>Back-end</summary>
   <ul>
     <li>jsp</li>
+    <li>thymeleaf</li>
     <li>python(crawling)</li>
     <li>Spring boot</li>
     <li>Spring Framework</li>
