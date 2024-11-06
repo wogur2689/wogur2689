@@ -8,9 +8,10 @@
     <details>
     <summary>Front-end</summary>
     <ul>
-      <li>JavaScript</li>
+      <li>HTML/CSS/JS</li>
       <li>JQuery</li>
       <li>React</li>
+      <li>bootStrap</li>
     </ul>
     </details>
   </li>
@@ -18,8 +19,9 @@
   <details>
  <summary>Back-end</summary>
   <ul>
+    <li>php</li>
     <li>jsp</li>
-    <li>thymeleaf</li>
+    <li>Thymeleaf</li>
     <li>python(crawling)</li>
     <li>Spring boot</li>
     <li>Spring Framework</li>
