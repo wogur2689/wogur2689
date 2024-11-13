@@ -11,6 +11,7 @@
       <li>HTML/CSS/JS</li>
       <li>JQuery</li>
       <li>React</li>
+      <li>Vue</li>
       <li>bootStrap</li>
     </ul>
     </details>
