@@ -116,7 +116,7 @@
   
 <h2>Github Stats</h2>
 
-![wogur2689's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogur2689&show_icons=true&theme=tokyonight)
+![wogur2689's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogur2689&show_icons=true&theme=merko)
 
 <h2>backjun</h2>
 
