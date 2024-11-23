@@ -56,11 +56,11 @@
  <details>
  <summary>Database</summary>
   <ul>
-    <li>MySQL</li>
-    <li>PostgreSQL</li>
+    <li><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></li>
+    <li><img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">PostgreSQL</li>
     <li>Oracle</li>
     <li>Firebase</li>
-    <li>Redis</li>
+    <li><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"></li>
   </ul>
   </details>
   </li>
@@ -74,7 +74,7 @@
     <li>netlify</li>
     <li>cloudtype</li>
     <li>jenkins</li>
-    <li>docker</li>
+    <li><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></li>
     <li>accodian(kubernetes)</li>
     <li>AWS</li>
   </ul>
