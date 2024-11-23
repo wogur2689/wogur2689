@@ -57,9 +57,9 @@
  <summary>Database</summary>
   <ul>
     <li><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">PostgreSQL</li>
-    <li>Oracle</li>
-    <li>Firebase</li>
+    <li><img src="https://img.shields.io/badge/PostgreSQL-0040FF?style=for-the-badge&logo=PostgreSQL&logoColor=white"></li>
+    <li><img src="https://img.shields.io/badge/Oracle-FA5858?style=for-the-badge&logo=Oracle&logoColor=white"></li>
+    <li><img src="https://img.shields.io/badge/Firebase-FACC2E?style=for-the-badge&logo=Firebase&logoColor=white"></li>
     <li><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"></li>
   </ul>
   </details>
