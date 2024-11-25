@@ -22,7 +22,6 @@
   <ul>
     <li>php</li>
     <li>jsp</li>
-    <li>Thymeleaf</li>
     <li>python(crawling)</li>
     <li><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></li>
     <li><img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></li>
