@@ -12,7 +12,7 @@
       <li><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></li>
       <li>JQuery</li>
       <li><img src="https://img.shields.io/badge/react-%231572B3.svg?style=for-the-badge&logo=react&logoColor=white"></li>
-      <li><img src="https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vue&logoColor=white"></li>
+      <li><img src="https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"></li>
       <li>bootStrap</li>
     </ul>
     </details>
