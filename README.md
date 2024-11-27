@@ -8,10 +8,11 @@
     <details>
     <summary>Front-end</summary>
     <ul>
-      <li>HTML/CSS/JS</li>
+      <li><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></li>
+      <li><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></li>
       <li>JQuery</li>
-      <li>React</li>
-      <li>Vue</li>
+      <li><img src="https://img.shields.io/badge/react-%231572B3.svg?style=for-the-badge&logo=react&logoColor=white"></li>
+      <li><img src="https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vue&logoColor=white"></li>
       <li>bootStrap</li>
     </ul>
     </details>
@@ -22,9 +23,9 @@
   <ul>
     <li>php</li>
     <li>jsp</li>
-    <li>python(crawling)</li>
+    <li><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"></li>
     <li><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></li>
+    <li><img src="https://img.shields.io/badge/spring framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></li>
     <li>NodeJS</li>
   </ul>
   </details>
@@ -37,7 +38,6 @@
     <ul>
       <li>java</li>
       <li>kotlin</li>
-      <li>Reactive Native</li>
     </ul>
     </li>
   </ul>
@@ -47,8 +47,9 @@
   <details>
 <summary>Version control</summary>
   <ul>
-    <li>Svn</li>
-    <li>Git</li>
+    <li><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white"></li>
+    <li><img src="https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white"></li>
+    <li><img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white"></li>
   </ul>
   </details>
   </li>
