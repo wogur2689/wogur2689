@@ -27,6 +27,7 @@
     <li><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></li>
     <li><img src="https://img.shields.io/badge/spring framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></li>
     <li>NodeJS</li>
+    <li>NestJS</li>
   </ul>
   </details>
   </li>
