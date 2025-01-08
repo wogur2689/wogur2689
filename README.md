@@ -8,11 +8,11 @@
     <details>
     <summary>Front-end</summary>
     <ul>
-      <li><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></li>
-      <li><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></li>
+      <li>html5</li>
+      <li>Css3</li>
       <li>JQuery</li>
-      <li><img src="https://img.shields.io/badge/react-%231572B3.svg?style=for-the-badge&logo=react&logoColor=white"></li>
-      <li><img src="https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"></li>
+      <li>react</li>
+      <li>vue</li>
       <li>bootStrap</li>
     </ul>
     </details>
@@ -21,11 +21,11 @@
   <details>
  <summary>Back-end</summary>
   <ul>
-    <li>php</li>
-    <li>jsp</li>
-    <li><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/spring framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></li>
+    <li>Php</li>
+    <li>Jsp</li>
+    <li>Python</li>
+    <li>Spring boot</li>
+    <li>Spring framework</li>
     <li>NodeJS</li>
     <li>NestJS</li>
   </ul>
@@ -48,9 +48,9 @@
   <details>
 <summary>Version control</summary>
   <ul>
-    <li><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white"></li>
+    <li>Git</li>
+    <li>Github</li>
+    <li>GitLab</li>
   </ul>
   </details>
   </li>
@@ -58,11 +58,11 @@
  <details>
  <summary>Database</summary>
   <ul>
-    <li><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/PostgreSQL-0040FF?style=for-the-badge&logo=PostgreSQL&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/Oracle-FA5858?style=for-the-badge&logo=Oracle&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/Firebase-FACC2E?style=for-the-badge&logo=Firebase&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"></li>
+    <li>MySQL</li>
+    <li>PostgreSQL</li>
+    <li>Oracle</li>
+    <li>Firebase</li>
+    <li>Redis</li>
   </ul>
   </details>
   </li>
@@ -76,7 +76,7 @@
     <li>netlify</li>
     <li>cloudtype</li>
     <li>jenkins</li>
-    <li><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></li>
+    <li>docker</li>
     <li>accodian(kubernetes)</li>
     <li>AWS</li>
   </ul>
