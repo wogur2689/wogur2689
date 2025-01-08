@@ -12,6 +12,7 @@
       <li>Css3</li>
       <li>JQuery</li>
       <li>react</li>
+      <li>nextJs</li>
       <li>vue</li>
       <li>bootStrap</li>
     </ul>
