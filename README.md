@@ -13,7 +13,7 @@
       <li>JQuery</li>
       <li>react</li>
       <li>nextJs</li>
-      <li>vue</li>
+      <li>vue3</li>
       <li>bootStrap</li>
     </ul>
     </details>
@@ -50,8 +50,6 @@
 <summary>Version control</summary>
   <ul>
     <li>Git</li>
-    <li>Github</li>
-    <li>GitLab</li>
   </ul>
   </details>
   </li>
@@ -84,14 +82,6 @@
   </details>
   </li>
   <li>
- <details>
- <summary>Api</summary>
-  <ul>
-    <li>RestApi</li>
-  </ul>
-  </details>
-  </li>
-    <li>
  <details>
  <summary>Communication</summary>
   <ul>
