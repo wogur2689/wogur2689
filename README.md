@@ -10,10 +10,10 @@
     <ul>
       <li>html5</li>
       <li>Css3</li>
-      <li>JQuery</li>
+      <li>JavaScript</li>
+      <li>TypeScript</li>
       <li>react</li>
-      <li>nextJs</li>
-      <li>vue3</li>
+      <li>vue</li>
       <li>bootStrap</li>
     </ul>
     </details>
