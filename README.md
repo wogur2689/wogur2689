@@ -62,6 +62,7 @@
     <li>Oracle</li>
     <li>Firebase</li>
     <li>Redis</li>
+    <li>JPA</li>
   </ul>
   </details>
   </li>
