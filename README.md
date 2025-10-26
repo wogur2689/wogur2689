@@ -79,6 +79,7 @@
     <li>docker</li>
     <li>accodian(kubernetes)</li>
     <li>AWS</li>
+    <li>NCP</li>
   </ul>
   </details>
   </li>
