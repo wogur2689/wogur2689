@@ -63,6 +63,7 @@
     <li>Firebase</li>
     <li>Redis</li>
     <li>JPA</li>
+    <li>QureyDsl</li>
   </ul>
   </details>
   </li>
